@@ -1,4 +1,4 @@
-# neon-monocyanide theme for atom text editor
+# Neon-Monocyanide Theme
 
 I couldn't find a theme that I liked on the atom package manager so I ported my favorite color scheme from sublime text. This port comes from Agila-Neon-Monocyanide theme. The syntax theme works very well with the Dash UI theme and the title-bar-replacer package - I think this makes atom my new favorite editor. If you find this, I hope you enjoy it.
 
@@ -8,5 +8,6 @@ Packages used in screen shot:
 - Dash UI theme
 - title-bar-replacer
 
+# Screenshot
 ![A screenshot of your theme](https://github.com/varung2/atom-neon-monocynaide/blob/master/Screenshot%202021-06-11%20200523.png)
 <!-- (https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif) -->
