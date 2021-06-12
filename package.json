@@ -1,0 +1,15 @@
+{
+  "name": "neon-monocyanide",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A Dark, high-contrast, neon themed color scheme. Ported from Agila-Neon-monocyanide color scheme from ST3.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/neon-monocyanide",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
